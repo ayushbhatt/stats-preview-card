@@ -68,7 +68,7 @@ h2{
 }
 
 .stats .stat p{
-    color: hsla(0, 0%, 100%, 0.75);
+    color: hsla(0, 0%, 100%, 0.6);
     text-transform: uppercase;
     font-family: 'Lexend Deca', sans-serif;
   }
